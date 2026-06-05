@@ -6,7 +6,7 @@ This project develops a comprehensive machine learning pipeline to analyze and p
 Heart Disease Dataset
 
 ## Technologies
-Python, Pandas, Scikit-learn, XGBoost, SHAP
+Python, Pandas, Scikit-learn, matplotlib, SHAP
 ## How to Run
 ```bash
 # 1. Clone repo
